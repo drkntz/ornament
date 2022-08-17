@@ -1,0 +1,3 @@
+[submodule "Software/dotstar"]
+	path = Software/dotstar
+	url = https://github.com/drkntz/dotstar.git
