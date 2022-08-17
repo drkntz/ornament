@@ -970,8 +970,6 @@ Wire Wire Line
 Wire Wire Line
 	1300 3800 1350 3800
 Connection ~ 1350 3800
-Text Notes 1650 3750 0    50   ~ 0
-28-00111-U
 $Comp
 L Connector:USB_B_Micro J1
 U 1 1 63280BF4
@@ -980,6 +978,7 @@ F 0 "J1" H 1457 3767 50  0000 C CNN
 F 1 "USB_B_Micro" H 1457 3676 50  0000 C CNN
 F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 1550 3250 50  0001 C CNN
 F 3 "~" H 1550 3250 50  0001 C CNN
+F 4 "28-00111-U" H 1400 3300 50  0001 C CNN "Note"
 	1    1400 3300
 	1    0    0    -1  
 $EndComp

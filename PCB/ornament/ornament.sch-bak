@@ -860,11 +860,11 @@ $EndComp
 Wire Wire Line
 	5400 4450 5250 4450
 $Comp
-L Connector:TestPoint TP2
+L Connector:TestPoint TP5
 U 1 1 6323B982
 P 7650 5200
-F 0 "TP2" V 7650 5400 50  0000 L CNN
-F 1 "TP2" V 7650 5700 50  0001 L CNN
+F 0 "TP5" V 7650 5400 50  0000 L CNN
+F 1 "TP5" V 7650 5700 50  0001 L CNN
 F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 7850 5200 50  0001 C CNN
 F 3 "~" H 7850 5200 50  0001 C CNN
 	1    7650 5200
@@ -882,10 +882,10 @@ F 3 "~" H 7850 5300 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector:TestPoint TP5
+L Connector:TestPoint TP4
 U 1 1 6323BC84
 P 7650 5400
-F 0 "TP5" V 7650 5600 50  0000 L CNN
+F 0 "TP4" V 7650 5600 50  0000 L CNN
 F 1 "TP4" V 7650 5900 50  0001 L CNN
 F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 7850 5400 50  0001 C CNN
 F 3 "~" H 7850 5400 50  0001 C CNN
@@ -899,10 +899,10 @@ Wire Wire Line
 Wire Wire Line
 	7650 5400 7200 5400
 $Comp
-L Connector:TestPoint TP4
+L Connector:TestPoint TP1
 U 1 1 63256CE1
 P 2000 5400
-F 0 "TP4" V 2000 5600 50  0000 L CNN
+F 0 "TP1" V 2000 5600 50  0000 L CNN
 F 1 "TP1" V 2000 5900 50  0001 L CNN
 F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 2200 5400 50  0001 C CNN
 F 3 "~" H 2200 5400 50  0001 C CNN
@@ -912,11 +912,11 @@ $EndComp
 Wire Wire Line
 	2200 5400 2000 5400
 $Comp
-L Connector:TestPoint TP1
+L Connector:TestPoint TP2
 U 1 1 632601A3
 P 2050 5100
-F 0 "TP1" V 2000 5050 50  0000 L CNN
-F 1 "TP1" V 2050 5600 50  0001 L CNN
+F 0 "TP2" V 2000 5050 50  0000 L CNN
+F 1 "TP2" V 2050 5600 50  0001 L CNN
 F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 2250 5100 50  0001 C CNN
 F 3 "~" H 2250 5100 50  0001 C CNN
 	1    2050 5100
