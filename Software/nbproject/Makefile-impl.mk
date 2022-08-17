@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=DotStar.X
+PROJECTNAME=Software
 
 # Active Configuration
 DEFAULTCONF=default

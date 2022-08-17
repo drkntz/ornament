@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>DotStar</name>
+            <name>ornament</name>
             <creation-uuid>c934f6a8-eea2-4b99-b4d2-ad6ecf5834be</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
