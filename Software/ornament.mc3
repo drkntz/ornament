@@ -1,4 +1,4 @@
-<config configName="default" projectName="595_wellcup" configVersion="1.1" device="PIC16F18325" deviceLibraryClass="com.microchip.mcc.mcu8.Mcu8PeripheralLibrary" coreVersion="5.4.4">
+<config configName="default" projectName="ornament" configVersion="1.1" device="PIC16F18325" deviceLibraryClass="com.microchip.mcc.mcu8.Mcu8PeripheralLibrary" coreVersion="5.4.4">
    <usedPackages class="java.util.ArrayList"/>
    <usedClasses class="java.util.TreeMap">
       <entry>
